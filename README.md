@@ -31,8 +31,8 @@ This game will soon be accesible on itch.io using basic internet access.
 Known Bugs:
 There are currently zero known bugs in this program. All errors have been resolved.
 
-Lessons Learned
+Lessons Learned:
 One struggle we faced was importing graphics into our game. Often times, graphcs would be sized incorrectly. To combat this issue, we used the graphcs feature within the Stencyl API to resize images and create original designs.
 
-Support
+Support:
 For support or questions, email Topher McDowell tophermcdowell@gmail.com or Pranshu Sinha at psinhamb15@gmail.com .
