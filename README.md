@@ -2,21 +2,21 @@
 Game for learning Business and FBLA concepts. FBLA is an international organization aimed at educating students on business leadership, practices, and etiquette.
 
 Acknowledgements:
-itch.io (Graphics)
-Google Fonts (Text Fonts)
-Pixabay (Sound)
+itch.io (Graphics),
+Google Fonts (Text Fonts),
+Pixabay (Sound),
 Stencyl (Programming API)
 
 Authors:
-Topher McDowell
+Topher McDowell,
 Pranshu Sinha
 
 Features:
-Advanced Rules
-Press 'escape' to quit
-Multiplayer mode
-Easily understood controls
-Game character options
+Advanced Rules,
+Press 'escape' to quit,
+Multiplayer mode,
+Easily understood controls,
+Game character options,
 Multiple ending possibilities
 
 Used By:
