@@ -26,7 +26,7 @@ Technology:
 This project was made using the Stencyl API.
 
 Usage:
-This game will soon be accesible on itch.io using basic internet access.
+This game will soon be accessible on itch.io using basic internet access.
 
 Known Bugs:
 There are currently zero known bugs in this program. All errors have been resolved.
